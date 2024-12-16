@@ -1,7 +1,7 @@
 # Analysis of NYC Citi Bike Share System
 
 ## Questions of Interests
-When are bikers taking the most time to travel between stations?
+Which stations cause long trip times?
 
 When are bikers most actively riding bikes?
 

@@ -1,13 +1,10 @@
 # Analysis of NYC Citi Bike Share System
 
 ## Questions of Interests
-Which stations cause long trip times?
+Which stations have longer trip times on average?
 
 When are bikers most actively riding bikes?
 
-Is there a significant difference in the average travel time between electric bikes and mechanical bikes?
+Which stations have the receive bikes from the most stations? Which stations send bikes to the most stations?
 
-Which pairs of stations have the highest activity, that is, which stations have the most bikers traveling 
-between them?
-
-Can we guess the trip time of a biker?
+Can we identify any monotonic relationships for future modeling?

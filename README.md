@@ -6,6 +6,8 @@ This README.md file provides an overview of each section. The technical analysis
 
 This will be the start of many analysis projects for the bike share system. While very useful, there are a variety of issues related to the bike share system that need to be addressed and could not fit in one presentation. For more information on issues related to the Citi Bike Share system, click [here](https://comptroller.nyc.gov/reports/riding-forward-overhauling-citi-bikes-contract-for-better-more-equitable-service/).
 
+---
+
 # CRISP-DM Process
 
 ## Business Understanding

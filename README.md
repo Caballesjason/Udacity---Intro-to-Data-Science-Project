@@ -13,7 +13,7 @@ This will be the start of many analysis projects for the bike share system. Whil
 ## Business Understanding
 We aim to describe bike rider behavior in July of 2024, posing the four questions below:
 
-1. Which stations have longer trip times on average?
+1. Which boroughs have the most stations?
 2. When are bikers most actively riding bikes?
 3. Which stations receive bikes from the most stations? Which stations send bikes to the most stations?
 4. Can we identify any monotonic relationships for future modeling?
@@ -32,6 +32,7 @@ The following data transformation steps were executed:
 - Create a field that describes trip durations using the _Manhattan Distance_.
 - Drop any rows with missing station IDs.
 - Create a network to capture station relationships.
+- Create labels for station borough location
 
 ## Data Modeling
 One aim of this analysis was to better understand trip duration and determine whether it could be predicted based on various features. Upon analysis, it was shown that the data had weak monotonic relationships; therefore, more examples or new features must be introduced for modeling.

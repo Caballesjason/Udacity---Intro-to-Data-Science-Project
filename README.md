@@ -2,7 +2,7 @@
 
 The aim of this project is to analyze New York City's [Citi Bike Share system](https://citibikenyc.com/), a staple in the city's culture. The analysis will follow the CRISP-DM process, or the _Cross-Industry Standard Process for Data Mining_ framework.
 
-This README.md file provides an overview of each section. The technical analysis and code will be in `analysis.ipynb`, and a casual presentation will be provided in this [Medium article]().
+This README.md file provides an overview of each section. The technical analysis and code will be in `analysis.ipynb`, and a casual presentation will be provided in this [Medium article](https://medium.com/@jasoncaballes99/citi-bikes-in-july-a-new-york-city-staple-14c2a50fa514).
 
 This will be the start of many analysis projects for the bike share system. While very useful, there are a variety of issues related to the bike share system that need to be addressed and could not fit in one presentation. For more information on issues related to the Citi Bike Share system, click [here](https://comptroller.nyc.gov/reports/riding-forward-overhauling-citi-bikes-contract-for-better-more-equitable-service/).
 
